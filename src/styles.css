@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Ranchers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+.App {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgba(69, 145, 122, 0.87);
+}
+h1 {
+  color: rgb(6, 26, 88);
+  font-family: "Ranchers", cursive;
+  font-size: 50px;
+}
+h2 {
+  font-family: "Langar", cursive;
+  color: rgb(156, 16, 58);
+}
+h3 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+input {
+  border-radius: 2rem;
+  border-style: ridge;
+  background-color: rgb(203, 206, 21);
+}
+.symbols {
+}
